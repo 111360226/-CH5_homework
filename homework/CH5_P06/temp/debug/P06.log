@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+d:\北科專用資料夾\程式設計\ch5_homework\ch5_visual\ch5_p06\source\main.c(12): warning C4013: 'cubeByValue' 未定義; 假設 extern 傳回整數
+  P06.vcxproj -> D:\北科專用資料夾\程式設計\CH5_homework\CH5_Visual\CH5_P06\P06\P06\..\..\temp\debug\P06.exe
